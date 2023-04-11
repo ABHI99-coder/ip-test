@@ -2,7 +2,7 @@
 
 <?php
 print `ifconfig`;
-print `date`;
+print `ls`;
 ?>
 
 </pre>
