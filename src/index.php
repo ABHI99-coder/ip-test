@@ -2,8 +2,7 @@
 
 <?php
 print `ifconfig`;
-print `ls -ld`;
-print `date`;
+print `cal`;
 ?>
 
 </pre>
